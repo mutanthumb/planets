@@ -1,2 +1,4 @@
 This planet has rings.
 It is the 6th planet
+It is a gas giant.
+
