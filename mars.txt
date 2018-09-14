@@ -1,1 +1,3 @@
 Mars is the red planet.
+Bud will be the first beer.
+Has rovers.
